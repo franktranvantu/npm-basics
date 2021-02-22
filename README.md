@@ -1,0 +1,1 @@
+npm is a command line tool to help you manage Node.js modules and this course will get you up and running with npm.
