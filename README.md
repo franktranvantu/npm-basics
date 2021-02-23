@@ -1,3 +1,9 @@
-There are two ways to install an npm package. 
+npm packages have more utility than being included locally in a project. 
 
-In this section we'll take a look at the types of packages you'd include in a project you're coding.
+There are other packages that can be installed as command line utilities. 
+
+In this section I'll show you how to install one such utility: http-server.
+
+```javascript
+npm install http-server -g
+```
