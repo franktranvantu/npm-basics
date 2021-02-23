@@ -5,4 +5,5 @@ In this section we'll take a look at the types of packages you'd include in a pr
 ```javascript
 npm init --yes
 npm install bcrypt
+node app.js
 ```
