@@ -1,7 +1,8 @@
-In this section, we'll take a look at the options on how to handle upgrading to newer versions of the dependencies you already have.
+In this video, we'll remove packages that are no longer needed.
 
 ```javascript
-npm outdated
-npm update
-npm update http-server -g
+npm uninstall colors
+npm uninstall mocha --save-dev
+npm uninstall http-server -g
+npm help install
 ```
