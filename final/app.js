@@ -1,4 +1,4 @@
-var unsecurePlainTextPassword = 'password';
+const unsecurePlainTextPassword = 'password';
 const bcrypt = require('bcrypt');
 const saltRounds = 10;
 
