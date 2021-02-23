@@ -1,1 +1,3 @@
-npm is a command line tool to help you manage Node.js modules and this course will get you up and running with npm.
+There are two ways to install an npm package. 
+
+In this section we'll take a look at the types of packages you'd include in a project you're coding.
